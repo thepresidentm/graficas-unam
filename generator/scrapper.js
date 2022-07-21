@@ -1,6 +1,7 @@
 // Copiar y ejecutar esta funcion en la pagina que contenga todos los resultados
 // getData()
 // Devolvera un array de jsons
+// Pegar ese resultado en el modulo json y ejecutar el csvmaker
 
 function getData() {
     let filas = document.getElementsByTagName('tr');
