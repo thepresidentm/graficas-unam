@@ -1,4 +1,4 @@
-// Copiar y ejecutar esta funcion en la pagina que contenga todos los resultados
+// Copiar y ejecutar esta funcion en la pagina que contenga los resultados de una determinada carrera
 // getData()
 // Devolvera un array de jsons
 // Pegar ese resultado en el modulo json y ejecutar el csvmaker
